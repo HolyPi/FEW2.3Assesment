@@ -1,0 +1,40 @@
+body {
+    background: rgba(24, 24, 31, 0.904);
+
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.border:after {
+    content: "";
+    display: block; 
+    margin: 0 auto; 
+    width: 50%;
+    padding-top: 20px; 
+    border-bottom: 1px solid white; 
+}
+
+button {
+    padding: 12px 30px;
+    border: none;
+    color: rgb(36, 36, 36);
+    background-color:rgb(149, 149, 173);
+}
+
+.save {
+    padding: 12px 20px;
+    color: white;
+    border: none;
+    background-color: rgb(196, 115, 68);
+}
+
+.enter {
+    padding: 10px 20px;
+}
+
